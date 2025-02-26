@@ -28,7 +28,7 @@ HTML, CSS
 
 Frameworks & Tools / Outils et frameworks
 
-React, Next.js, Node.js
+React, Next.js, Node.js, Django
 
 Git, GitHub
 
