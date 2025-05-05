@@ -24,11 +24,13 @@ C#
 
 JavaScript, TypeScript
 
+Kotlin
+
 HTML, CSS
 
 Frameworks & Tools / Outils et frameworks
 
-React, Next.js, Node.js, Django
+React, Next.js, Node.js, Django, ASP .NET
 
 Git, GitHub
 
