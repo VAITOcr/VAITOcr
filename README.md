@@ -26,6 +26,8 @@ JavaScript, TypeScript
 
 Kotlin
 
+PHP
+
 HTML, CSS
 
 Frameworks & Tools / Outils et frameworks
