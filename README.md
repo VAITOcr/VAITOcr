@@ -6,11 +6,11 @@
 
 Kevin Jesus Espinoza Cubero Aspiring Software Developer | Student in Software Development
 
-Développeur logiciel en formation | Étudiant en développement d'applications
+Junior Software Developer | Application Development Graduate
+Passionate about creating software solutions for desktop, web, and mobile platforms. Recently graduated in application development, I am seeking an entry-level position to apply my skills, contribute to impactful projects, and grow into a versatile developer ready to take on future challenges.
 
-I'm passionate about creating software solutions and building applications for desktop, web, and mobile platforms. Currently seeking an internship to gain hands-on experience and grow my skills in software development.
-
-Je suis passionné par la création de solutions logicielles et le développement d'applications pour les plateformes bureau, web et mobile. Je suis actuellement à la recherche d'un stage afin d'acquérir une expérience pratique et de développer mes compétences en développement logiciel.
+Développeur logiciel junior | Diplômé en développement d’applications
+Passionné par la création de solutions logicielles pour les plateformes bureau, web et mobile. Récemment diplômé en développement d’applications, je recherche un poste de début de carrière afin de mettre mes compétences en pratique, contribuer à des projets concrets et évoluer comme développeur polyvalent prêt à relever les défis de demain.
 
 💻 Skills / Compétences
 
