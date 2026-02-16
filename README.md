@@ -4,9 +4,9 @@
 
 🚀 About Me / À propos de moi
 
-Kevin Jesus Espinoza Cubero Aspiring Software Developer | Student in Software Development
+Kevin Jesus Espinoza Cubero Software Developer |  Software Developer 
 
-Junior Software Developer | Application Development Graduate
+Junior Software Developer | Junior Application Development 
 Passionate about creating software solutions for desktop, web, and mobile platforms. Recently graduated in application development, I am seeking an entry-level position to apply my skills, contribute to impactful projects, and grow into a versatile developer ready to take on future challenges.
 
 Développeur logiciel junior | Diplômé en développement d’applications
@@ -64,5 +64,3 @@ Email: VAITOcr44@proton.me
 </a>
 
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAITOcr&layout=compact)](https://github.com/VAITOcr) 
